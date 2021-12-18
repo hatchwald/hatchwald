@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hatchwald
 - 👀 I’m interested in javascript framework
-- 🌱 I’m currently learning ruby on rails
+- 🌱 I’m currently learning nodeJS
 - 📫 How to reach me on fatkhur139wec@gmail.com
 
 <!---
